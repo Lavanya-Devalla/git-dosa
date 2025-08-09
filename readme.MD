@@ -1,4 +1,4 @@
-# Dosa Shop
+#Dosa Shop
 
 ## Plain Dosa
 * Dosa Batter
@@ -11,12 +11,10 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs, karam and oil
+<<<<<<< HEAD
 
 ## Paneer Dosa
 * Dosa Batter
 * Ghee
 * Kaju Paste
 * Paneer
-* Mysore masala
-* onion and tomato
-* capsicum
