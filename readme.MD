@@ -11,3 +11,10 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs, karam and oil
+<<<<<<< HEAD
+
+## Paneer Dosa
+* Dosa Batter
+* Ghee
+* Kaju Paste
+* Paneer
