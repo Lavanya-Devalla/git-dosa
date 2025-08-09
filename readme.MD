@@ -19,3 +19,4 @@
 * Paneer
 * Mysore masala
 * onion and tomato
+* capsicum
