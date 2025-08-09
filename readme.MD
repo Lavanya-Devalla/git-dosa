@@ -14,4 +14,7 @@
 
 ## Paneer Dosa
 * Dosa Batter
-
+* Ghee
+* Kaju Paste
+* Paneer
+* Mysore masala
