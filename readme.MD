@@ -1,4 +1,4 @@
-#Dosa Shop
+# Dosa Shop
 
 ## Plain Dosa
 * Dosa Batter
@@ -11,3 +11,7 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs, karam and oil
+
+## Paneer Dosa
+* Dosa Batter
+
